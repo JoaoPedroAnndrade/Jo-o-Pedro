@@ -1,17 +1,12 @@
-### Hi there 👋
+### Hi there 👋 my name is João Pedro.
 
-<!--
-**JoaoPedroAnndrade/Jo-o-Pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I work at Fruttare restaurant  
+- 🌱 I'm attending high school
+- 👯 alone lately :v
+- 🤔 I’m looking for help with ... people
+- 💬 Ask me about ...  como é ser o camisa 4 kkk
+- 📫 How to reach me: ... https://www.instagram.com/sf.jotaa/
+- 😄 Pronouns: ...  jotinha
+- ⚡ Fun fact: ... nada a comentar 
 -->
 
